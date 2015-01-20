@@ -1,13 +1,14 @@
 -debug
 -target:library
 -nowarn:0169
--out:'Temp/Assembly-CSharp-firstpass.dll'
+-out:'Temp/Assembly-CSharp.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEngine.dll'
+-r:'Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll'
 -r:'/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll'
 -r:'Assets/Standard Assets/GBaaS/fastJSON.dll'
 -r:'Assets/Standard Assets/GBaaS/GBaaS.io.dll'
--r:'Assets/Standard Assets/GBaaS/Newtonsoft.Json.dll'
 -r:'Assets/Standard Assets/GBaaS/Krystalware.UploadHelper.dll'
+-r:'Assets/Standard Assets/GBaaS/Newtonsoft.Json.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Managed/UnityEditor.dll'
 -define:UNITY_4_6_1
 -define:UNITY_4_6
@@ -46,12 +47,8 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_OSX
 -define:UNITY_PRO_LICENSE
-'Assets/Plugins/Android/GBaaSAndroid.cs'
-'Assets/Plugins/GCM/GCM.cs'
-'Assets/Plugins/GCM/GCMReceiver.cs'
-'Assets/Plugins/GCM/MiniJSON.cs'
-'Assets/Standard Assets/GBaaSObject.cs'
-'Assets/Standard Assets/GBaaSSettings.cs'
-'Assets/Standard Assets/GBaaSUserObject.cs'
+'Assets/GBaaSTest.cs'
+'Assets/GCM-Sample/MainScene.cs'
+'Assets/GCM-Sample/SubScene.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'

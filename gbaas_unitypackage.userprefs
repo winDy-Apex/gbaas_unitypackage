@@ -1,12 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../unity2d_testgame/Assets/Facebook/Scripts/FB.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../unity2d_testgame/Assets/Standard Assets/GBaaSObject.cs">
     <Files>
-      <File FileName="../unity2d_testgame/Assets/Examples/Scripts/InteractiveConsole.cs" Line="1" Column="1" />
-      <File FileName="../unity2d_testgame/Assets/Plugins/Android/facebook/AndroidManifest.xml" Line="1" Column="1" />
-      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest.xml" Line="1" Column="1" />
-      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest_CHINA.xml" Line="1" Column="1" />
-      <File FileName="../unity2d_testgame/Assets/Facebook/Scripts/FB.cs" Line="389" Column="19" />
+      <File FileName="../unity2d_testgame/Assets/Standard Assets/GBaaSObject.cs" Line="127" Column="4" />
+      <File FileName="../unity2d_testgame/Assets/Scripts/ScoreList/ScoreListController.cs" Line="33" Column="47" />
+      <File FileName="../unity2d_testgame/Assets/Scripts/ScoreList/ScoreView.cs" Line="53" Column="115" />
+      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest.xml" Line="81" Column="1" />
+      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest_CHINA.xml" Line="92" Column="28" />
+      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest_GCM.xml" Line="36" Column="20" />
+      <File FileName="../unity2d_testgame/Assets/Scripts/StartMenu/LoginService.cs" Line="99" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

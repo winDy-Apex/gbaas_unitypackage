@@ -65,11 +65,11 @@
  <Reference Include="GBaaS.io">
  <HintPath>/Users/winDy/Documents/windystudio_svn/PROJECT/Apexplatform/gbaas_unitypackage/Assets/Standard Assets/GBaaS/GBaaS.io.dll</HintPath>
  </Reference>
- <Reference Include="Newtonsoft.Json">
- <HintPath>/Users/winDy/Documents/windystudio_svn/PROJECT/Apexplatform/gbaas_unitypackage/Assets/Standard Assets/GBaaS/Newtonsoft.Json.dll</HintPath>
- </Reference>
  <Reference Include="Krystalware.UploadHelper">
  <HintPath>/Users/winDy/Documents/windystudio_svn/PROJECT/Apexplatform/gbaas_unitypackage/Assets/Standard Assets/GBaaS/Krystalware.UploadHelper.dll</HintPath>
+ </Reference>
+ <Reference Include="Newtonsoft.Json">
+ <HintPath>/Users/winDy/Documents/windystudio_svn/PROJECT/Apexplatform/gbaas_unitypackage/Assets/Standard Assets/GBaaS/Newtonsoft.Json.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
