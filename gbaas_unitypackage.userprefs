@@ -1,14 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../unity2d_testgame/Assets/Standard Assets/GBaaSObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../unity2d_testgame/Assets/Plugins/GCM/GCM.cs">
     <Files>
-      <File FileName="../unity2d_testgame/Assets/Standard Assets/GBaaSObject.cs" Line="127" Column="4" />
-      <File FileName="../unity2d_testgame/Assets/Scripts/ScoreList/ScoreListController.cs" Line="33" Column="47" />
-      <File FileName="../unity2d_testgame/Assets/Scripts/ScoreList/ScoreView.cs" Line="53" Column="115" />
-      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest.xml" Line="81" Column="1" />
-      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest_CHINA.xml" Line="92" Column="28" />
-      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest_GCM.xml" Line="36" Column="20" />
-      <File FileName="../unity2d_testgame/Assets/Scripts/StartMenu/LoginService.cs" Line="99" Column="1" />
+      <File FileName="../unity2d_testgame/Assets/Standard Assets/GBaaSUserObject.cs" Line="20" Column="25" />
+      <File FileName="../unity2d_testgame/Assets/Standard Assets/GBaaSObject.cs" Line="168" Column="5" />
+      <File FileName="../unity2d_testgame/Assets/Standard Assets/GBaaSSettings.cs" Line="1" Column="1" />
+      <File FileName="../unity2d_testgame/Assets/Plugins/Android/AndroidManifest.xml" Line="73" Column="20" />
+      <File FileName="../unity2d_testgame/Assets/Plugins/GCM/GCMReceiver.cs" Line="47" Column="37" />
+      <File FileName="../unity2d_testgame/Assets/Plugins/GCM/GCM.cs" Line="26" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
